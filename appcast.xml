@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
+<title>POP 入仓工具</title><language>zh-CN</language>
+<sparkle:bundleIdentifier>com.chiteng.pop-inbound</sparkle:bundleIdentifier>
+<item><title>0.3.1</title><popProductId>com.chiteng.pop-inbound</popProductId>
+<link>https://chow9373.github.io/pop-inbound-updates/notes-301.html</link>
+<description sparkle:format="plain-text">启用 macOS 和 Windows 的正式在线更新。安装本版后，可在「软件更新」检查后续版本。
+通过 POP 专用更新密钥验证更新清单和安装制品。下载完成后，可选择合适的时间安装并重启。
+安装前先检查正在使用的表格和进行中的任务，确认后再继续。</description>
+<pubDate>Tue, 24 Nov 2026 01:04:10 GMT</pubDate>
+<sparkle:version>301</sparkle:version><sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/chow9373/pop-inbound-updates/releases/download/v0.3.1/POP-Inbound-0.3.1-macOS.zip" sparkle:edSignature="mRwkBu10fTU/Df2rePoGFREbyBl8mOuaARd2R+j9ZyZUFXJj3p0vbZZtYKH9FMwkvkts9sLrmpYapK9lhfh3Bg==" length="227203994" type="application/octet-stream"></enclosure>
+</item></channel></rss><!-- sparkle-signatures:
+edSignature: ZMLMeXvRm3Mj46uMGFsXie4o0/caqTNnFnBKJr7zyaMn9TtShrnPa1AxtTcKwfscJVKbvk8m/UVLsuCiDQV7CA==
+length: 1588
+-->
